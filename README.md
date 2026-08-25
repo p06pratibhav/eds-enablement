@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--{repo}--{owner}.aem.page/ ##https://main--eds-enablement--p06pratibhav.aem.page/
+- Live: https://main--{repo}--{owner}.aem.live/ ##https://main--eds-enablement--p06pratibhav.aem.live/
 
 ## Documentation
 
